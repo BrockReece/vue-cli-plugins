@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-plugin-kanban",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add Vue-Kanaban package to project",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/vue-kanban.git"
+  },
+  "keywords": [
+    "Vue",
+    "kanban",
+    "board",
+    "cli",
+    "plugin"
+  ],
+  "author": "BrockReece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockReece/vue-kanban/issues"
+  },
+  "homepage": "https://github.com/BrockReece/vue-kanban#readme"
+}
