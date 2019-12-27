@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-kanban",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-cli plugin to add Vue-Kanaban package to project",
   "main": "generator.js",
   "scripts": {
