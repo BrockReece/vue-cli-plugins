@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-heatmap",
+  "version": "1.0.1",
+  "description": "vue-cli plugin to add Vue-Heatmapjs package to project",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/vue-heatmapjs.git"
+  },
+  "keywords": [
+    "Vue",
+    "heatmap",
+    "cli",
+    "plugin"
+  ],
+  "author": "BrockReece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockReece/vue-heatmapjs/issues"
+  },
+  "homepage": "https://github.com/BrockReece/vue-heatmapjs#readme"
+}
